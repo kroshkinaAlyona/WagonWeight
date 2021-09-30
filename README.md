@@ -34,6 +34,7 @@ TestWagonsVesta - obtained from the results of winter verification at Vesta (rep
 
 2. *_train.py* - script to start the training and validation process. The mesh model has a weight prediction autoencoder structure (see the picture below)
 
-![model](https://user-images.githubusercontent.com/67489454/135474118-58f5f861-e2c8-4224-ad8f-b8815a260f0e.png)
+![model](https://user-images.githubusercontent.com/67489454/135476775-641e2bec-3647-4378-b83d-a5b96e0bc6dc.png)
+
 
 3. *_generator.py* - the script is necessary for uniform swapping of data with the training process
