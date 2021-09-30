@@ -1,3 +1,9 @@
+![model](https://user-images.githubusercontent.com/67489454/135474118-58f5f861-e2c8-4224-ad8f-b8815a260f0e.png)
+
+
+
+
+
 **Train sample**
 
 [control point]_[train id]_[weighing line number]_[forward / reverse sensor]__X
