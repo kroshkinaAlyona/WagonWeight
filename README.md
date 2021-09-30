@@ -1,7 +1,6 @@
-![model](https://user-images.githubusercontent.com/67489454/135474118-58f5f861-e2c8-4224-ad8f-b8815a260f0e.png)
+***Script’s description***
 
-
-
+_toTrainSet.py - a script for obtaining training and validation samples from raw data (see the inside for a detailed description of the data). At the output, it receives the following data in numpy format:
 
 
 **Train sample**
@@ -15,8 +14,6 @@
 - numpy array with the weight of each car according to Vesta
  
  [number of cars, weight according to Vesta]
-
-
 
 
 **Validation sample**
@@ -34,3 +31,4 @@ TestWagonsVesta - obtained from the results of winter verification at Vesta (rep
 
 [number of cars, weight according to Vesta]
 
+![model](https://user-images.githubusercontent.com/67489454/135474118-58f5f861-e2c8-4224-ad8f-b8815a260f0e.png)
