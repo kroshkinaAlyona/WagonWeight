@@ -1,6 +1,6 @@
 ***Script’s description***
 
-_toTrainSet.py - a script for obtaining training and validation samples from raw data (see the inside for a detailed description of the data). At the output, it receives the following data in numpy format:
+*_toTrainSet.py* - a script for obtaining training and validation samples from raw data (see the inside for a detailed description of the data). At the output, it receives the following data in numpy format:
 
 
 **Train sample**
